@@ -89,4 +89,4 @@ titanic-survival-prediction/
 - Scikit-Learn (Logistic Regression, Random Forest, Gradient Boosting, SVM)
 
 ## 👤 Author
-**Your Name** — [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername)
+**Dawood Ahmad** — [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/dawood-ahmad-b46641361)
